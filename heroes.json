@@ -1,0 +1,78 @@
+{
+  "heroes": [
+    {
+      "id": 9,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "31b21ee5-0b1e-4850-800e-9f9215ba1ad3",
+      "name": "hjjjjjjjjkbhvv",
+      "description": "sdgsdg",
+      "element": "earth"
+    },
+    {
+      "id": "cb571ece-b181-4513-9291-d27e4745d26f",
+      "name": "pavel",
+      "description": "sdvsdg",
+      "element": "fire"
+    },
+    {
+      "id": "447d6e7e-3d6a-477a-8cb4-52481422fda8",
+      "name": "pavel",
+      "description": "dsfdsf",
+      "element": "water"
+    },
+    {
+      "id": "06f23964-112a-41c6-992e-4b3e021415a8",
+      "name": "Павел Коротких",
+      "description": "ccxbxcb",
+      "element": "all"
+    },
+    {
+      "id": "99f06b62-6e6a-4442-bb98-4720874716bd",
+      "name": "Павел Коротких",
+      "description": "sffag",
+      "element": "earth"
+    },
+    {
+      "id": "3d3fc2a9-6977-48da-942c-8d2a99bfd87d",
+      "name": "вфарвар",
+      "description": "вапва",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "name": "all",
+      "label": "Все",
+      "class": "btn-outline-dark"
+    },
+    {
+      "id": 2,
+      "name": "fire",
+      "label": "Огонь",
+      "class": "btn-outline-danger"
+    },
+    {
+      "id": 3,
+      "name": "water",
+      "label": "Вода",
+      "class": "btn-outline-primary"
+    },
+    {
+      "id": 4,
+      "name": "wind",
+      "label": "Воздух",
+      "class": "btn-outline-success"
+    },
+    {
+      "id": 5,
+      "name": "earth",
+      "label": "Земля",
+      "class": "btn-outline-secondary"
+    }
+  ]
+}
